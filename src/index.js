@@ -37,7 +37,7 @@ app({
         ])
       ]),
       h("row-", { class: "reading", gap: "1" }, [
-        link({ href: "https://github.com/hyperapp/hyperapp/tree/master/src" }, [
+        link({ href: "https://github.com/hyperapp/hyperapp/tree/master/src/index.js" }, [
           span("READ THE CODE")
         ]),
         link(
